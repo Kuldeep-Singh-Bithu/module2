@@ -1,2 +1,2 @@
 # module2
-HTML/ CSS
+coursera
